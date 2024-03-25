@@ -6,3 +6,4 @@
 
 1. [Задание 1](https://classroom.github.com/a/ipzIWNUb)
 2. [Задание 2](https://classroom.github.com/a/GLPb-nbu)
+3. [Задание 3 (Классы)](https://classroom.github.com/a/0bYlmunE)
